@@ -1,0 +1,5 @@
+rootfs_rv32
+rootfs_rv64
+tmp
+rootfs_rv32.cpio.gz
+rootfs_rv64.cpio.gz
